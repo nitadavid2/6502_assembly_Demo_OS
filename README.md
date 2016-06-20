@@ -2,7 +2,9 @@
 Operating system written in 6502 assembly and tested on 6502 emulators.
 
 Can be compiled and run on the following emulators :
+
   A. online
+
     * https://skilldrick.github.io/easy6502/
     * http://www.6502asm.com/
 
